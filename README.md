@@ -1,6 +1,6 @@
 # Week27 LLM Evaluation Tool
 
-> **Author**: Mingtao  
+> **Author**: Mingrui  
 > **Version**: 1.0  
 > **Based on**: Week27 Learning Plan & Theory Assignment
 
