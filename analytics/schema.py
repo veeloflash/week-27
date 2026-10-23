@@ -1,6 +1,6 @@
 """
 Week27 Event Schema - Single Source of Truth
-Author: Mingtao
+Author: Mingrui
 Version: 1.0
 
 This module defines all structured output schemas and event types for the LLM Evaluation Tool.
