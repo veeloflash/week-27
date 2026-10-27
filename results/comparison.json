@@ -1,0 +1,13 @@
+{
+  "models": [
+    "model_a",
+    "model_b"
+  ],
+  "recommendation": "model_b",
+  "reasoning": "Model B: higher accuracy (0.80 vs 0.73), higher F1 (0.76 vs 0.68), zero critical failures",
+  "limitations": [
+    "Small dataset (30 cases)",
+    "Mock models",
+    "Single annotator"
+  ]
+}
